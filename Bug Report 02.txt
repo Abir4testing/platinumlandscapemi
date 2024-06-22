@@ -1,0 +1,29 @@
+1. Title/Summary: The user not able to navigate from home page to YouTube link.
+
+2. Precondition: 
+
+3. Environment: Windows 11 Google chrome 126.0.6478.114/115 / 18 June 2024.
+
+4. Screenshots/Attachments: [Attachment](https://drive.google.com/file/d/17t7sukY2xtRnEgJsE87kXLf8gjnIym6G/view?usp=sharing)
+
+5. Additional Information:
+
+6. Reproduction Steps:
+
+1.Go to the URL [https://platinumlandscapemi.com/]
+2.Navigate to the bottom of the website
+3.Click on the YouTube icon
+
+7. Priority: medium
+
+8. Severity: major
+
+9. Assigned To: Developer
+
+10. Status: Fail
+
+11. Reported By: Sadia Mehzabin
+
+12. Date/Time: 21/06/2024
+
+13. Comments/Notes: the bug needs to be fixed.
